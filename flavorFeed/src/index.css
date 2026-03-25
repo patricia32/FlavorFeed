@@ -1,0 +1,52 @@
+@import 'tailwindcss';
+
+html {
+  scrollbar-gutter: stable;
+  background-color: var(--bg-color);
+}
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  --bg-color: #fbf8f4;
+  --accent-color: #ed7344;
+  --bg-loading-card-light-gray: #f2f2f2;
+  --bg-loading-card-dark-gray: #d5d5d5;
+
+  --dark-gray: #dfd5c9;
+  --gray: #e8e1d8;
+  --light-gray: #c7c6c6;
+
+  --title-gray: #353a4c;
+  --text-gray: #6f6f6f;
+
+  --reviewsText-gray: #a0a09b;
+  --rating-gray: #4c4841;
+
+  --container-bg-gray: #faf2eb;
+  --container-border-gray: #eeeae6;
+
+  --accent-color-hover: #d7531f;
+  --gray-color-hover: #c8c2bb;
+
+  --yellow-rating-star: #ecc453;
+  --gray-rating-star: #d1d5db;
+
+  --bg-review-circle: #f8e8e0;
+  --border-review-cicle: #eaddd6;
+
+  --alert-bg: #fbe1d2;
+}
+div {
+  font-family:
+    'Open Sans',
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    sans-serif;
+}
+h1,
+h2 {
+  letter-spacing: 0.03em;
+  font-family: 'Lora', system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
