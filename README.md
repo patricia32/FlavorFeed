@@ -20,11 +20,12 @@ All features and components are built from scratch, with the exception of icons.
 - Vite
 - Tailwind CSS
 
+
 # 📸 Screenshots
 <table>
   <tr>
     <td>
-      <img alt="Landing Page" width="500" src="https://github.com/user-attachments/assets/6f9e46a9-b0a8-4aed-adf0-b4f7b92cc71e" />
+      <img alt="Landing Page" width="500" src="https://github.com/user-attachments/assets/bc481fac-ec57-4742-82fd-be58f5ba9153" />
     </td>
     <td>
     <img alt="Products Page" width="500" src="https://github.com/user-attachments/assets/51060ccb-f0a4-4de9-8db6-c0a87ffbc779" />
