@@ -20,6 +20,7 @@ All features and components are built from scratch, with the exception of icons.
 - Vite
 - Tailwind CSS
 
+# 📸 Screenshots
 <table>
   <tr>
     <td>
