@@ -4,7 +4,7 @@ FlavorFeed is a web application designed for tourists and locals alike, helping 
 
 All features and components are built from scratch, with the exception of icons. The project includes unit tests to ensure reliability and maintainability.
 
-# Features
+## Features
 - Add your own reviews
 - Search by restaurant name
 - Filter by cuisine
@@ -14,14 +14,14 @@ All features and components are built from scratch, with the exception of icons.
 - Loading and error state handling
 - Unit tested components
   
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 
 
-# 📸 Screenshots
+## 📸 Screenshots
 <table>
   <tr>
     <td>
